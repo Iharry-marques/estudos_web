@@ -1,0 +1,6 @@
+* Visão geral de Estruturas de dados
+
+O que são estruturas de dados?
+Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
+
+O que é FIFO? “First in, first out”, FIFO ou “Primeiro a entrar, primeiro a sair” é uma estratégia de gerenciamento de estoque que se baseia em filas de espera. Ela prioriza produtos que estão armazenados há mais tempo no estoque, para que sejam despachados primeiro aos consumidores.
