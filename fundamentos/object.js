@@ -8,7 +8,6 @@ console.log(prod1)
 const prod2 = {
     nome: 'camisa polo',
     preco: 79.90,
-
 }
 
 '{"nome": "Camisa Polo", "Preco": "79.90" }' //json

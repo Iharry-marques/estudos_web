@@ -14,3 +14,13 @@ const pessoa = {
 for(atributo in pessoa) {
     console.log(`${atributo} = ${pessoa[atributo]}`)
 }
+
+// const pessoa = {
+//     nome: 'João',
+//     idade: 30,
+//     cidade: 'São Paulo'
+//   };
+  
+//   for (let chave in pessoa) {
+//     console.log(chave + ': ' + pessoa[chave]);
+//   }

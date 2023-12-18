@@ -17,5 +17,5 @@ console.log(soma(2, 3));
 const subtracao = (a, b) => a - b;
 console.log(subtracao(3, 5));
 
-const imprimir2 = (a) => console.log(a);
+const imprimir2 = a => console.log(a);
 imprimir2("Oi, sextou");

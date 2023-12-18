@@ -1,7 +1,6 @@
-var number = 1
-console.log(number)
+var numero = 1 
 {
-    var number = 2
-    console.log("dentro = ", number)
+    var numero = 2
+    console.log("Dentro =", numero)
 }
-console.log("fora =", number)
+console.log("Fora =",numero)

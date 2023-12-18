@@ -1,25 +1,24 @@
-// novo recurso do ES2015
+// novo rescurso do ES2015
 
 const pessoa = {
-    nome: 'Fabio',
-    idade: 24,
-    endereco: {
-        logadouro: 'Rua Cload',
-        numero: 324
-    }
-}
+  nome: "Fabio",
+  idade: 24,
+  endereco: {
+    logradouro: "Rua auauau",
+    numero: 324,
+  },
+};
 
-const { nome, idade} = pessoa
-console.log(nome, idade)
+const { nome, idade } = pessoa;
+console.log(nome, idade);
 
-const {nome: n, idade: i} = pessoa
-console.log(n, i)
+const { nome: n, idade: i } = pessoa;
+console.log(n,i)
 
-const { sobrenome, bemHumarada = true} = pessoa
-console.log(sobrenome, bemHumarada)
+const { sobrenome, bemHumorada = true} = pessoa
+console.log(sobrenome, bemHumorada)
 
-const { endereco: { logadouro, numero, cep } } = pessoa
-console.log(logadouro, numero, cep)
 
-//const { conta: { ag, num } } = pessoa
-//console.log(ag, num)
+const { endereco: {logradouro, numero, cep}} = pessoa
+console.log(logradouro,numero,cep)
+

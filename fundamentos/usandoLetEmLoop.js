@@ -1,10 +1,5 @@
-const funcs = []
-
-for (let i = 0; i < 10; i++) {
-    funcs.push(function() {
-        console.log(i)
-    })
+for (let f = 0; f < 10; f++){
+    console.log(f)
 }
 
-funcs[2]() // Imprimirá 2
-funcs[8]() // Imprimirá 8
+console.log("f = ", f)

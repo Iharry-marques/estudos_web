@@ -7,7 +7,7 @@ function exec(){
     
 }
 
-// Objetos são grupos aninhados de pares nome/valor 
+// Objetos são grupos aninhados de pares nome/valor  
 const cliente = {
     nome: 'Fabio',
     idade: 32,
